@@ -29,6 +29,9 @@ git add .
 git commit -m <commit message>
 git push origin main
 
+to check the update info
+git status
+
 
 /******************************************************************************************************************************/
 to get any project from github use this steps 
