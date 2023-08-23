@@ -24,6 +24,11 @@ git branch -M main
 to push my local changes to online repository
 git push -u origin main
 
+to push an update
+git add .
+git commit -m <commit message>
+git push origin main
+
 
 /******************************************************************************************************************************/
 to get any project from github use this steps 
